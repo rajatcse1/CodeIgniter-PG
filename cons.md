@@ -30,8 +30,7 @@
       - etc.
 - Admin can do the following action from their accounts:
       - Add PG
-      - Add rooms
-      - Add bed
+      - Add rooms and set room orientation using drag & drop
       - Connect tennent
       - Add default facilities
       - etc.
